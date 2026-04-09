@@ -11,7 +11,7 @@ A responsive cryptocurrency website that displays real-time prices for Bitcoin, 
 
 ## Live Demo
 
-View the live website at: https://iam269.github.io/Cryptocurrency-Design/
+View the live website at: https://itsiamddev.github.io/Cryptocurrency-Design/
 
 ## Technologies Used
 
